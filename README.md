@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on frontend/backend web development
-- 📫 Reach me on WhatsApp 08068912451
+- 📫 Reach me on WhatsApp +234 0806 891 2451
 
 <!---
 yemyemco/yemyemco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
