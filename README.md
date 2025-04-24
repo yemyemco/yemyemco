@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Fasanu Opeyemi
+- 👋 Hi, I’m Dr. Fasanu Opeyemi
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning python 3.
+- 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on frontend/backend web development
 - 📫 Reach me on WhatsApp 08068912451
 
